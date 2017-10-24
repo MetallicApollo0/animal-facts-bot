@@ -889,6 +889,16 @@ FALCON_FACTS = (
     'Falcons can process four types of light while humans can only process three. This means that the falcon has a very good night vision and can also see ultraviolet rays.',
     )
 
+FERRET_FACTS = (
+    'The ferret (Mustela putorius furo) is the domesticated form of the European polecat, a mammal belonging to the same genus as the weasel, Mustela of the family Mustelidae.',
+    'Ferrets typically have brown, black, white, or mixed fur.',
+    'Ferrets have an average length of 51 cm (20 in) including a 13 cm (5.1 in) tail, and weigh about 1.5–4 pounds (0.7–2 kg).',
+    'Ferrets have a natural lifespan of 7 to 10 years.',
+    'Ferrets are sexually dimorphic predators with males being substantially larger than females.",
+    'Ferrets have been domesticated for at least 2,500 years.',
+    'Ferrets are still used for hunting rabbits in some parts of the world, but increasingly, they are kept only as pets.',
+    )
+
 FLAMINGO_FACTS = (
     'Flamingos are a type of wading bird that live in areas of large shallow lakes, lagoons, mangrove swamps, tidal flats, and sandy islands.',
     'The word "flamingo" comes from the Spanish word "flamenco" which came from the earlier Latin word "flamma" meaning flame or fire.',
